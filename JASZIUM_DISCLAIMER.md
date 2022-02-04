@@ -6,12 +6,12 @@ snapshot `BACKUP / ARCHIVE` of the [ORIGINAL][2] as of 2022-02-04T09:38:18Z (*Gi
 ALL `CODE` AND `FILES` IN THIS `FORK` BELONG TO [JACK SWEENEY][1], except [`JASZIUM_DISCLAIMER.md`][5].<br>
 ALL `CODE` AND `FILES` IN THIS `FORK` IS PROVIDED `AS IS` BY [ME][3] ON BEHALF OF [JACK SWEENEY][1]!
 
-[I (Jaszium)][3] did not modify anything except adding that file, and adding links to the *Github API* in this `FORK`'s<br>
+[I (Jaszium)][3] did not modify anything except adding that file, and adding links to the *GitHub API* in this `FORK`'s<br>
 description field, with the value in the [ORIGINAL][2]'s description field as follows (sans the double quotes `"`):
 
 "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet"
 
-View the [FORK][7] / [ORIGINAL][6] on *Github API*<br>
+View the [FORK][7] / [ORIGINAL][6] on *GitHub API*<br>
 View the *GitHub API* via [DOCS][9] / [JSON][8]
 
 [1]:https://github.com/Jxck-S
